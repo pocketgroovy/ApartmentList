@@ -47,7 +47,7 @@ public class DescriptionSnippets{
 				}
 			}
 		}
-		if(end == -1 && start != -1){
+		if(end == -1 && start != -1){ // if it only finds one keyword, use the start index
 			end = start;
 		}
 
