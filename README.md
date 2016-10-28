@@ -1,3 +1,7 @@
+What this app do:
+  find most appropriate sentences according to a user search
+
+
 I have created 2 versions for this solution.
 
 First version is my favorite but it didn't give you the same result you specified in the email.
@@ -7,7 +11,7 @@ I igonored any sentence between them.
 The reason I did this way was that the original descriptions to me was more like bulletpoints description instead of paragraph.
 I didn't see the tight connection between the sentences next to each other.
 
-Second version will give you the exact same result in your email.
+Second version;
 It tries to find the first occurrence of any of the keywords in a sentence, then second occurrence of any of the keywords in a sentence.
 Return all the senteces between them
 However, this solution has some issues.
